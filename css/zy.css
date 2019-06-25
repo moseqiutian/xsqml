@@ -1,0 +1,88 @@
+body{
+	background: black;
+}
+.bigbox{
+	width: 1200px;
+	margin: auto;
+	color:#FFFFFF ;
+	text-align: center;
+}
+.smallbox{
+	width: 400px;
+	float: left;
+	margin-top: 40px;
+	color: #FFFFFF;
+}
+.smallbox img{
+	width: 100px;
+	height: 100px;
+	margin-left:-50px;
+}
+.smallbox p{
+	font-size: 50px;
+	line-height: 20px;
+	margin-left:-50px;
+	color: #FFFFFF;
+}
+.smallbox2{
+	width: 400px;
+	float: left;
+	margin-top: 40px;
+	color: #FFFFFF;
+}
+.smallbox2 img{
+	width: 100px;
+	height: 100px;
+}
+.smallbox2 p{
+	font-size: 50px;
+	line-height: 20px;
+	color: #FFFFFF;
+}
+.bigbox2{
+	width: 1200px;
+	margin: auto;
+	color:#FFFFFF ;
+	text-align: center;
+}
+.bigbox2-img1{
+	height: 400px;
+}
+.bigbox2-img2{
+	height: 400px;
+	margin-left: 100px;
+}
+.bigbox a{
+	text-decoration: none;
+}
+.bigbox2 a{
+	text-decoration: none;
+}
+.smallbox1{
+	width: 400px;
+	margin: auto;
+	margin-top: 30px;
+	color: #FFFFFF;
+}
+.smallbox1 img{
+	width: 100px;
+	height: 100px;
+}
+.smallbox1 p{
+	font-size: 50px;
+	line-height: 5px;
+	color: #FFFFFF;
+}
+.fontfirst{
+	margin-top: 25px;
+}
+.index3img1{
+	width: 800px;
+}
+.index3img2{
+	margin-top: 20px;
+	width: 800px;
+}
+.index4img{
+	width: 700px;
+}
